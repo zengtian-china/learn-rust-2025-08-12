@@ -4,3 +4,9 @@ mod test{
         println!("hello zengtian");
     }
 }
+
+mod tests{
+    pub fn hello(){
+        println!("hello rust");
+    }
+}
